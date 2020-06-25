@@ -13,6 +13,7 @@ namespace MethodsExerciseConsole
             //string age = Console.ReadLine();
 
             //Console.WriteLine("What is the name of your dog?");
+
             //string dogName = Console.ReadLine();
 
             //Console.WriteLine("What color is your dog?");
